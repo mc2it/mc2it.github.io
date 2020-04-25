@@ -9,7 +9,9 @@
 *.svg text
 *.txt text
 *.yaml text
+*.yml text
 
+*.gif binary
 *.ico binary
 *.jpg binary
 *.pdf binary
