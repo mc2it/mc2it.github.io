@@ -1,7 +1,7 @@
-# SAB International
+# MC2IT
 Distribution and IT service.
 
-![SAB International](img/logo.png)
+![MC2IT](img/logo.png)
 
 ## Website
 URL: https://www.sabcomputer.com
