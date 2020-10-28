@@ -7,7 +7,7 @@ Distribution and IT service.
 URL: https://www.sabcomputer.com
 
 ## Social networks
-GitHub: https://github.com/sab-international  
+GitHub: https://github.com/mc2it  
 LinkedIn: https://linkedin.com/company/sab-international-sarl  
 Facebook: https://www.facebook.com/sabinternational34  
 Twitter: https://twitter.com/SABDistribution
