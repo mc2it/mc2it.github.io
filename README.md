@@ -1,7 +1,7 @@
 # MC2IT
 Distribution and IT service.
 
-![MC2IT](img/logo.png)
+![MC2IT](img/logo.svg)
 
 ## Website
 URL: https://www.sabcomputer.com
