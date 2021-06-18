@@ -1,13 +1,9 @@
-# MC2IT
-Distribution and IT service.
-
+# MC2IT Distribution & Services
 ![MC2IT](img/logo.svg)
 
 ## Website
-URL: https://www.sabcomputer.com
+URL: http://mc2-it.com
 
 ## Social networks
 GitHub: https://github.com/mc2it  
-LinkedIn: https://linkedin.com/company/sab-international-sarl  
-Facebook: https://www.facebook.com/sabinternational34  
-Twitter: https://twitter.com/SABDistribution
+LinkedIn: https://www.linkedin.com/company/sab-entreprises-sab-international-/
