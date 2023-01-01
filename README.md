@@ -1,10 +1,8 @@
-# MC2IT
-Distribution and services.
-
+# MC2IT - Distribution & Services
 ![MC2IT](img/logo.png)
 
 ## Website
-URL: https://mc2it.com
+URL: https://www.mc2it.com
 
 ## Social networks
 GitHub: https://github.com/mc2it  
